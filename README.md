@@ -209,6 +209,6 @@ If this repository only contains the report and diagrams, `CC BY 4.0` is usually
 
 ## Author
 
-Created by [@lzx](https://github.com/lzx)
+Created by [@wangjunjie](https://github.com/junjiewang253-ctrl)
 
 If you find this report useful, feel free to star the repository or share it with others interested in RLHF systems, LLM post-training, and AI infrastructure.
